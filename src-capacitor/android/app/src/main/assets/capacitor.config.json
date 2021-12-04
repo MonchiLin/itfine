@@ -1,0 +1,10 @@
+{
+  "appId": "org.kiki.itfine.com",
+  "appName": "ItFine",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {
+    "url": "http://198.18.0.1:8080"
+  }
+}
